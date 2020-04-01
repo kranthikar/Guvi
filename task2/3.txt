@@ -1,0 +1,71 @@
+convert specifications to java script
+
+
+var technical_spec =
+{
+    Dimensions:{
+          overalllength:3500,
+          overallwidhth:"1600",
+          overalheight:"1490",
+          wheelbase:"2360",
+          trackfront:
+          {
+             front:1405,
+             rear:1400"
+          }
+     },
+     Capacities:{
+            seating capacity:5,
+            fuel tank capacity:35
+     },
+     Engine:{
+       type:"KB-Series"
+       number of cylinders:3,
+       number of valves:12,
+       capacity:998,
+       bore*stroke:"73.0*79.5",
+       compression ratio:"10:1",
+       maximum power:"67/6200",
+       maximum torque:"90/3500",
+       fuel distribution:"multipoint injection"
+     },
+     transmission:{
+          type:"5-speed MT"
+     },
+     Chasis:{
+         steering:"rack and pinion",
+         brakes:
+         {
+            front:"ventilated discs",
+            rear:"drums"
+         },
+         suspension:
+         {
+            front:"macpherson strut and coil spring",
+            rear:"isolated trailing link and coil spring"
+         },
+         shock absorbers:"gas filled",
+         tyre:"155/80R13"
+    },
+    Weights:{
+          Kerb weight:"860-880",
+          Gross vehicle weight:320
+    }
+}
+
+
+
+  
+
+
+
+   
+
+
+
+
+     
+       
+
+
+
