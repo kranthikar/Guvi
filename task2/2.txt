@@ -1,0 +1,41 @@
+2)write a program to find data types indvidually
+
+
+var sun1=function(x){
+          console.log(typeof x)
+};
+sun1(25);
+
+
+var sun1=function(x){
+          console.log(typeof x)
+};
+sun1(45.63);
+
+var sun1=function(x){
+          console.log(typeof x)
+};
+sun1({name:"kranthi",
+age:22,
+gmail:"sunny23@gmail.com",
+password:65656
+});
+
+var sun1=function(x){
+          console.log(typeof x)
+};
+sun1(true);
+
+
+var sun1=function(x){
+          console.log(typeof x)
+};
+sun1(null);
+
+var sun1=function(x){
+          console.log(typeof x)
+};
+sun1(undefined);
+
+
+
