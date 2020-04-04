@@ -1,0 +1,26 @@
+
+4. Write a program to create a calculator with all arithmetic operations has functions;
+
+function ADD(a,b){
+sum=a+b
+console.log(sum)
+}
+ADD(10,20);
+
+function SUB(a,b){
+sub=a-b
+console.log(sub)
+}
+SUB(15,5);
+
+function MUL(a,b){
+mul=a * b
+console.log(mul)
+}
+MUL(10,20);
+
+function DIV(a,b){
+div=a/b
+console.log(div)
+}
+DIV(5,10)
