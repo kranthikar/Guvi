@@ -1,0 +1,3 @@
+1e. Find the datatype of author age in Nodejs Object
+
+console.log(typeof library[1].authordetails.age
