@@ -1,0 +1,8 @@
+create a function to sum two numbers and return the value
+
+
+function sum(a,b){
+    c=a+b
+    return c
+}   
+sum(2,3)
